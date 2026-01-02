@@ -4,9 +4,9 @@
   "downloadUrl": "https://...",
   "updateLog": "优化了已知bug，新增了交互体验！",
   "notice": {
-    "enabled": false,
+    "enabled": true,
     "title": "新年快乐 🎇",
-    "content": "\n在2026新的一年里顺风顺水顺财神哟 💰",
+    "content": "\n在2026新的一年里 祝你顺风顺水顺财神哟 💰",
     "goToButton": {
       "enabled": false,
       "text": "前往",
