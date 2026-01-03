@@ -6,11 +6,11 @@
   "notice": {
     "enabled": true,
     "title": "新年快乐 🎇",
-    "content": "\n在2026新的一年里 祝你顺风顺水顺财神哟 💰",
+    "content": "\n在2026新的一年里 祝你顺风顺水顺财神哟 💰\n\n应用官网已上线测试可前往查看",
     "goToButton": {
-      "enabled": false,
+      "enabled": true,
       "text": "前往",
-      "url": "https://..."
+      "url": "https://grinydev.github.io/Color-OI-G/"
     }
   }
 }
