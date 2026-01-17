@@ -1,0 +1,10 @@
+{
+  "versionName": "1.0.2",
+  "versionCode": "102",
+  "downloadUrl": "",
+  "updateLog": "优化了已知BUG、重置中文补全提示。",
+  "notify": false,
+  "customNotification": "这是一条自定义通知内容",
+  "showWebButton": false,
+  "webUrl": ""
+}
