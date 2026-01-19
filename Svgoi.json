@@ -1,10 +1,11 @@
 {
-  "versionName": "1.0.2",
-  "versionCode": "102",
+  "versionName": "1.0.1",
+  "versionCode": "101",
   "downloadUrl": "",
-  "updateLog": "优化了已知BUG、重置中文补全提示。",
+  "updateLog": "优化了已知bug，增加交互体验！",
   "notify": false,
-  "customNotification": "这是一条自定义通知内容",
+  "customNotification": "2026新的一年发发发",
   "showWebButton": false,
-  "webUrl": ""
+  "webUrl": "",
+  "showUpdateButton": false
 }
