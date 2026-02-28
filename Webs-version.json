@@ -1,0 +1,14 @@
+{
+  "versionName": "1.2.6",
+  "versionCode": 126,
+  "updateTitle": "发现新版本 v1.2.6",
+  "updateContent": "优化了已知问题 !",
+  "downloadUrl": "https://raw.githubusercontent.com/GrinyDev/App-version/refs/heads/main/ColorOI.json",
+  "apkSize": "15.8 MB",
+  "forceUpdate": false,
+  "publishTime": 1704067200000,
+  "minSdkVersion": 21,
+  "changelog": [
+    "优化了已知bug"
+  ]
+}
