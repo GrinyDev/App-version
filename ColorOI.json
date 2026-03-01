@@ -5,8 +5,8 @@
   "updateLog": "本次更新优化了新的改动\n下载提取码：gwjx",
   "notice": {
     "enabled": false,
-    "title": "新年快乐 🎇",
-    "content": "\n🎉 2026，新岁启程，愿你乘风破浪、财运亨通！\n\n✨ 应用官网已上线测试，欢迎前往探索体验。",
+    "title": "调色UI",
+    "content": "编辑调色无需理会",
     "goToButton": {
       "enabled": false,
       "text": "前往",
