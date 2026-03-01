@@ -8,7 +8,7 @@
   "notification": {
     "enabled": true,
     "title": "温馨提示",
-    "content": "遇到问题？欢迎随时反馈，每一条建议都让我们变得更好。"
+    "content": "遇到问题？欢迎随时反馈，每一条建议都让我们变得更好。",
     "goToEnabled": true,
     "goToUrl": "https://qq.com"
   }
