@@ -7,7 +7,7 @@
   "forceUpdate": false,
   "notification": {
     "enabled": true,
-    "title": "重要通知",
+    "title": "温馨提示",
     "content": "遇到问题？欢迎随时反馈，每一条建议都让我们变得更好。"
   }
 }
