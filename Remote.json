@@ -8,7 +8,7 @@
     "title": "调色UI",
     "content": "编辑调色无需理会",
     "goToButton": {
-      "enabled": false,
+      "enabled": true,
       "text": "前往",
       "url": "https://grinydev.github.io/Color-OI-G/"
     }
