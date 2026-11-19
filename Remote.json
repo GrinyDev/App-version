@@ -4,7 +4,7 @@
   "downloadUrl": "https://msdpy.lanzouv.com/iW7Hm3f9n9qb",
   "updateLog": "你好世界",
   "notice": {
-    "enabled": true,
+    "enabled": false,
     "title": "调色UI",
     "content": "编辑调色无需理会",
     "goToButton": {
