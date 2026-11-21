@@ -3,7 +3,7 @@
   "versionCode": "42",
   "downloadUrl": "https://msdpy.lanzouv.com/iW7Hm3f9n9qb",
   "updateLog": "你好世界",
-  "lock": false,
+  "lock": true,
   "notice": {
     "enabled": false,
     "title": "调色UI",
