@@ -3,13 +3,13 @@
   "versionCode": "42",
   "downloadUrl": "https://msdpy.lanzouv.com/iW7Hm3f9n9qb",
   "updateLog": "你好世界",
-  "lock": true,
+  "lock": false,
   "notice": {
-    "enabled": false,
-    "title": "调色UI",
-    "content": "编辑调色无需理会",
+    "enabled": true,
+    "title": "温馨提示",
+    "content": "程序当前正在进行维护中，将限制部分功能无法使用...",
     "goToButton": {
-      "enabled": true,
+      "enabled": false,
       "text": "前往",
       "url": "https://grinydev.github.io/Color-OI-G/"
     }
