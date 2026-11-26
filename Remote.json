@@ -5,7 +5,7 @@
   "updateLog": "你好世界",
   "lock": true,
   "notice": {
-    "enabled": trur,
+    "enabled": true,
     "title": "维护提示",
     "content": "程序进行维护中暂带来不便请谅解。",
     "goToButton": {
