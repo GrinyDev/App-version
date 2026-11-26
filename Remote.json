@@ -1,11 +1,11 @@
 {
-  "versionName": "0.0.47",
-  "versionCode": "47",
+  "versionName": "0.0.46",
+  "versionCode": "46",
   "downloadUrl": "https://msdpy.lanzouv.com/iW7Hm3f9n9qb",
-  "updateLog": "你好世界",
+  "updateLog": "版本过低",
   "lock": false,
   "notice": {
-    "enabled": true,
+    "enabled": false,
     "title": "维护提示",
     "content": "程序进行维护中暂带来不便请谅解。",
     "goToButton": {
