@@ -1,13 +1,13 @@
 {
-  "versionName": "0.0.42",
-  "versionCode": "42",
+  "versionName": "0.0.46",
+  "versionCode": "46",
   "downloadUrl": "https://msdpy.lanzouv.com/iW7Hm3f9n9qb",
   "updateLog": "你好世界",
   "lock": true,
   "notice": {
-    "enabled": false,
-    "title": "温馨提示",
-    "content": "程序当前正在进行维护中，将限制部分功能无法使用...",
+    "enabled": trur,
+    "title": "维护提示",
+    "content": "程序进行维护中暂带来不便请谅解。",
     "goToButton": {
       "enabled": false,
       "text": "前往",
