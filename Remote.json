@@ -6,7 +6,7 @@
   "packageName": "com.dkgcsd.android",
   "lock": true,
   "deviceWhitelist": [
-    "7589584714"
+    ""
   ],
   "notice": {
     "enabled": false,
